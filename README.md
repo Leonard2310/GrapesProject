@@ -53,3 +53,6 @@ This project is licensed under the [GNU General Public License v3.0]. Refer to t
   - **SwiftSoup**: for safe and fast HTML parsing and manipulation.
   - **OpenAI**: for integrating advanced artificial intelligence features.
   - **SwiftOpenAI**: for facilitating the use of OpenAI's APIs with Swift.
+
+
+**WORK IN PROGRESS**
